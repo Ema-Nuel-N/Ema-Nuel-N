@@ -35,8 +35,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ema-Nuel-N-sys&show_icons=true&theme=radial" alt="Estadísticas de Emanuel" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ema-Nuel-N-sys&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ema-Nuel-N&show_icons=true&theme=radial" alt="Estadísticas de Emanuel" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ema-Nuel-N&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
