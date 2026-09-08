@@ -8,7 +8,6 @@
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente cursando la **Tecnicatura en Programación en la UTN**.
-
 - 📍 **Ubicación:** Buenos Aires, Argentina 🇦🇷
 
 ---
@@ -24,6 +23,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## 📚 Actualmente trabajando en
 
 - ✏️ Ejercicios y proyectos de la **Tecnicatura UTN 2026**.
@@ -35,15 +36,14 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ema-Nuel-N&show_icons=true&theme=radial" alt="Estadísticas de Emanuel" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ema-Nuel-N&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ema-Nuel-N&theme=radial" alt="Racha de contribuciones" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ema-Nuel-N&theme=radial" alt="Resumen de perfil" width="48%" />
 </p>
 
----
 
 ## 📫 Conéctate conmigo
 
-- 💼 **LinkedIn:** [Emanuel Nuñez](https://www.linkedin.com/in/emanuel-nuñez-610702302)
+- 💼 **LinkedIn:** [Emanuel Nuñez](https://www.linkedin.com/in/emanuel-nu%C3%B1ez-610702302/)
 - 💻 **GitHub:** [Ema-Nuel-N](https://github.com/Ema-Nuel-N)
 
 <!--
