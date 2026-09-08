@@ -8,7 +8,6 @@
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente cursando la **Tecnicatura en Programación en la UTN**.
-- 🛒 **Emprendedor con experiencia en:**
 
 - 📍 **Ubicación:** Buenos Aires, Argentina 🇦🇷
 
