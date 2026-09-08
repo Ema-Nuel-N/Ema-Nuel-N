@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Emanuel Nuñez
 
 💻 **Estudiante de la Tecnicatura universitaria en Programación (UTN)**  
-🏋️ **Apasionado por la tecnología 
+🏋️ **Apasionado por la tecnología**
 
 ---
 
